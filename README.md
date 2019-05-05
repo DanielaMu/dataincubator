@@ -1,1 +1,2 @@
 # dataincubator
+Occupational space network graph. The highlighted nodes are the ones in which the local labor market or the city in this case has a comparative advantage in or produces more intensively. The opcaity of the node color is directly related to the risk of automation and its size represents the share of employment in that occupation. Nodes are colored based on job families (see legend file) and clustered based on skill similarity calculated using the Jaccard index and O*NET occupational data.
